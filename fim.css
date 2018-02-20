@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+  background-image: url("agape.jpg");
+  font-family: sans-serif;
+  font-weight: 100;
+  background-size: 320px 300px;	
+}
+
+h1{
+  
+  font-weight: 100;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 2% 5%;
+  font-size: 54px;
+  color : white;
+}
+#voltar{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#fim {
+    color: #fff;
+    font-size: 536px;
+    transition: color .7s;
+}
+.mostrar {
+    color: #8e2522 !important;
+}
+
+.mostrar1 {
+    color: #000000 !important;
+}
