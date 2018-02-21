@@ -7,13 +7,13 @@ body{
 }
 
 h1{
-  
   font-weight: 100;
   font-weight: bold;
   font-size: 40px;
   margin: 2% 5%;
   font-size: 54px;
-  color : white;
+    color : #DCDCDC;
+    background-color: #1151a5a1;
 }
 #voltar{
     cursor: pointer;
@@ -21,14 +21,17 @@ h1{
 }
 
 #fim {
-    color: #fff;
+    color: #7fb7d0;
     font-size: 536px;
     transition: color .7s;
 }
+.fim {
+    background: none;
+}
 .mostrar {
-    color: #8e2522 !important;
+    color: #006997 !important;
 }
 
 .mostrar1 {
-    color: #000000 !important;
+    color: #2b2c68 !important;
 }
