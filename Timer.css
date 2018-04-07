@@ -1,9 +1,9 @@
 body{
   text-align: center;
-  background-image: url("agape.jpg");
+  background-image: url("agape.png");
   font-family: sans-serif;
   font-weight: 100;
-  background-size: 320px 300px;	
+  background-size: 319px 206px;
 }
 
 h1{
@@ -20,7 +20,7 @@ h1{
 #clockdiv > div{
   padding: 10px;
   border-radius: 3px;
-  background: #A52A2A;
+  background: #26a220;;
   display: inline-block;
   opacity: 0.8;
 }
