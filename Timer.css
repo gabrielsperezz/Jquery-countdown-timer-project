@@ -1,51 +1,50 @@
-body{
-  text-align: center;
-  background-image: url("agape.jpg");
-  font-family: sans-serif;
-  font-weight: 100;
-  background-size: 320px 300px;	
+body {
+    text-align: center;
+    background-image: url("neviim.jpg");
+    font-family: sans-serif;
+    font-weight: 100;
+    background-size: 320px 300px;
 }
 
-h1{
-  
-  font-weight: 100;
-  font-weight: bold;
-  font-size: 40px;
-  margin: 2% 5%;
-  font-size: 124px;
-  color : white;
+h1 {
+
+    font-weight: 100;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 2% 5%;
+    font-size: 124px;
+    color: #000000e0;
 
 }
 
-#clockdiv > div{
-  padding: 10px;
-  border-radius: 3px;
-  background: #A52A2A;
-  display: inline-block;
-  opacity: 0.8;
+#clockdiv > div {
+    padding: 10px;
+    border-radius: 3px;
+    background: #d92d25;
+    display: inline-block;
+    opacity: 0.8;
 }
 
-#clockdiv div > span{
-  padding: 30px;
-  border-radius: 4px;
-  background: #DCDCDC ;
-  display: inline-block;
-  font-weight: bold;
+#clockdiv div > span {
+    padding: 30px;
+    border-radius: 4px;
+    background: #DCDCDC;
+    display: inline-block;
+    font-weight: bold;
 }
 
-#clockdiv{
-position: absolute;
+#clockdiv {
+    position: absolute;
     top: 25%;
     left: 14%;
     font-family: arial;
-    color: #69696;
     display: inline-block;
     text-align: center;
     font-size: 2013%;
 }
 
-.smalltext{
-  padding-top: 2%;
-  font-size: 50px;
-  color: #DCDCDC ;
+.smalltext {
+    padding-top: 2%;
+    font-size: 50px;
+    color: #DCDCDC;
 }
